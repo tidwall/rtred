@@ -1,4 +1,4 @@
-module github.com/tidwall/rtreed
+module github.com/tidwall/rtred
 
 go 1.15
 

@@ -1,4 +1,4 @@
-package rtreed
+package rtred
 
 import (
 	"fmt"
