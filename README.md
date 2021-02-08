@@ -1,10 +1,14 @@
+**This project has been archived, please use [tidwall/rtree](https://github.com/tidwall/rtree) instead.**
+
 RTree implementation for Go
 ===========================
 
-[![GoDoc](https://godoc.org/github.com/tidwall/rtree?status.svg)](https://godoc.org/github.com/tidwall/rtree)
+[![GoDoc](https://godoc.org/github.com/tidwall/rtred?status.svg)](https://godoc.org/github.com/tidwall/rtred)
 
 This package provides an in-memory R-Tree implementation for Go, useful as a spatial data structure.
 It has support for 1-20 dimensions, and can store and search multidimensions interchangably in the same tree.
+
+
 
 Authors
 -------
